@@ -1,1 +1,1 @@
-First git directory
+Updated README file.
